@@ -1,0 +1,25 @@
+body{
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    text-align: center;
+}
+a{
+    background: white;
+    color: rgb(6, 81, 56);
+    width: 200px;
+    height: 40px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-left: 30px;
+    padding-right: 30px;
+    border-radius: 20px;
+    text-decoration: none;
+    font-size: 30px;
+    font-weight: bold;
+}
+h1{
+    font-size: 50px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: rgb(6, 191, 247);
+}
